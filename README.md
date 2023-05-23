@@ -14,7 +14,7 @@ Note that this is an unofficial plugin.
 ## Installation
 1. Install Homebridge by following
    [the instructions](https://github.com/homebridge/homebridge/wiki).
-2. Install this plugin using [Homebridge Config UI X](https://github.com/oznu/homebridge-config-ui-x), or by running `npm install -g homebridge-androidtv`.
+2. Install this plugin using [Homebridge Config UI X](https://github.com/oznu/homebridge-config-ui-x), or by running `npm install -g homebridge-esp8266-intexsbh20`.
 3. Configure plugin settings in homebridge by adding MQTT Host - restart
 4. On HomeKit app tap on 'Add accessory'
 5. Enjoy ;-) 
