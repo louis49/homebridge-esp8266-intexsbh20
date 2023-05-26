@@ -1,0 +1,26 @@
+{
+  "pluginAlias": "HomebridgeESP8266IntexSBH20",
+  "pluginType": "platform",
+  "singular": true,
+  "headerDisplay": "Homebridge ESP8266 Intex SBH20 plugin",
+  "footerDisplay": "",
+  "schema": {
+    "host": {
+      "title": "MQTT host",
+      "type": "string",
+      "default": "localhost",
+      "required": true
+    }
+  },
+  "layout": [
+    {
+      "key" : "host",
+      "type" : "fieldset",
+      "title" : "MQTT",
+      "items" : {
+        "title" : "Host",
+        "key": "host"
+      }
+    }
+  ]
+}
