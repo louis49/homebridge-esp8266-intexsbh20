@@ -1,5 +1,5 @@
 {
-  "name": "homebridge-esp8266-intexsbh20",
+  "name": "homebridge-intexsbh20",
   "version": "1.0.0",
   "main": "dist/index.js",
   "keywords": [
