@@ -1,5 +1,6 @@
 {
   "name": "homebridge-intexsbh20",
+  "description": "A homebridge plugin enabling HomeKit support for Intex PureSpa SB-H20",
   "version": "1.0.1",
   "main": "dist/index.js",
   "keywords": [
