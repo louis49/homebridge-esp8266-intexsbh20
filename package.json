@@ -24,6 +24,7 @@
     "homebridge": "^1.6.0"
   },
   "type": "commonjs",
+  "license": "MIT",
   "homepage": "https://github.com/louis49/homebridge-esp8266-intexsbh20",
   "bugs": {
     "url": "https://github.com/louis49/homebridge-esp8266-intexsbh20/issues"
