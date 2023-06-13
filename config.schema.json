@@ -1,5 +1,5 @@
 {
-  "pluginAlias": "HomebridgeESP8266IntexSBH20",
+  "pluginAlias": "HomebridgeIntexSBH20",
   "pluginType": "platform",
   "singular": true,
   "headerDisplay": "Homebridge ESP8266 Intex SBH20 plugin",

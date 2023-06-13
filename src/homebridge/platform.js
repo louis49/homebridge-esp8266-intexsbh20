@@ -1,5 +1,5 @@
-export const PLATFORM_NAME = 'HomebridgeESP8266IntexSBH20';
-export const PLUGIN_NAME = 'homebridge-esp8266-intexsbh20';
+export const PLATFORM_NAME = 'HomebridgeIntexSBH20';
+export const PLUGIN_NAME = 'homebridge-intexsbh20';
 import * as mqtt from "mqtt"
 import EventEmitter from "events";
 

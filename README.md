@@ -1,4 +1,4 @@
-# homebridge-esp8266-intexsbh20
+# homebridge-intexsbh20
 
 [![npm-version](https://badgen.net/npm/v/homebridge-intexsbh20)](https://www.npmjs.com/package/homebridge-intexsbh20)
 [![npm-total-downloads](https://badgen.net/npm/dt/homebridge-intexsbh20)](https://www.npmjs.com/package/homebridge-intexsbh20)
